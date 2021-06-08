@@ -1,5 +1,5 @@
 import random
-targetIP = raw_input("Hedef IP [Target IP]: ")
+targetIP = input("Hedef IP [Target IP]: ")
 i=1
  
 def get_randomSourceIP():
